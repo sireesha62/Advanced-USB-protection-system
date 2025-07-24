@@ -1,0 +1,353 @@
+2025-07-06 13:34:46.702530 | USB access denied | Intruder
+2025-07-06 13:34:53.026776 | Photo captured | Success
+2025-07-06 13:34:55.833613 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23c8431a1f0sm62138855ad.32 - gsmtp') | Fail
+2025-07-13 07:48:42.029735 | Monitor started | Info
+2025-07-13 07:52:07.962846 | Monitor started | Info
+2025-07-13 07:52:10.297130 | Fatal error: unsupported operand type(s) for -: 'set' and 'NoneType' | Fail
+2025-07-13 07:57:01.381960 | Monitor started | Info
+2025-07-13 08:02:01.190658 | Monitor started | Info
+2025-07-13 08:07:58.563845 | Monitor started | Info
+2025-07-13 08:08:13.635253 | USB event: 2 | Detected
+2025-07-13 08:08:13.637412 | USB insertion detected: G | Processing
+2025-07-13 08:08:19.013077 | Could not find volume number for G | Fail
+2025-07-13 08:08:32.498426 | USB access denied | Intruder
+2025-07-13 08:08:38.534346 | Photo captured | Success
+2025-07-13 08:08:43.191632 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c3e973e75sm8079920a91.16 - gsmtp') | Fail
+2025-07-13 08:25:05.154608 | Monitor started | Info
+2025-07-13 08:25:28.790609 | USB device detected: USB_Hub_USB Mass Storage Device | Hardware
+2025-07-13 08:25:29.752435 | USB device without drive letter: USB_Hub_USB Mass Storage Device | Info
+2025-07-13 08:26:19.296756 | USB device detected: USB_Hub_USB Mass Storage Device | Hardware
+2025-07-13 08:26:20.167873 | USB device without drive letter: USB_Hub_USB Mass Storage Device | Info
+2025-07-13 08:27:07.553170 | Monitor started | Info
+2025-07-13 08:33:42.990545 | Monitor started | Info
+2025-07-13 08:34:24.290361 | USB inserted | Detected
+2025-07-13 08:34:28.803908 | Could not find volume number for G | Fail
+2025-07-13 08:34:37.065084 | USB access denied | Intruder
+2025-07-13 08:34:42.938966 | Photo captured | Success
+2025-07-13 08:34:46.025926 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23de4341ff6sm72151155ad.176 - gsmtp') | Fail
+2025-07-13 08:35:14.632466 | USB inserted | Detected
+2025-07-13 08:35:45.217623 | Could not find volume number for G | Fail
+2025-07-13 08:36:49.378688 | Monitor started | Info
+2025-07-13 08:36:52.689211 | USB inserted | Detected
+2025-07-13 08:36:58.074155 | Could not find volume number for G | Fail
+2025-07-13 08:37:24.384294 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-13 08:37:33.901270 | USB inserted | Detected
+2025-07-13 08:37:38.680201 | Could not find volume number for G | Fail
+2025-07-13 08:37:43.939103 | USB access denied | Intruder
+2025-07-13 08:37:49.362292 | Photo captured | Success
+2025-07-13 08:37:52.182268 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23de43227b7sm69064205ad.106 - gsmtp') | Fail
+2025-07-14 20:14:26.189186 | Monitor started | Info
+2025-07-14 20:14:43.465551 | USB inserted | Detected
+2025-07-14 20:14:48.695976 | Could not find volume number for G | Fail
+2025-07-14 20:15:33.923506 | USB inserted | Detected
+2025-07-14 20:15:37.856208 | Could not find volume number for G | Fail
+2025-07-14 20:18:29.290913 | Monitor started | Info
+2025-07-14 20:18:47.022987 | USB inserted | Detected
+2025-07-14 20:18:57.582351 | Could not find volume number for G | Fail
+2025-07-14 20:23:15.533625 | Monitor started | Info
+2025-07-14 20:23:22.684282 | USB inserted | Detected
+2025-07-14 20:23:25.134069 | Could not find volume number for G | Fail
+2025-07-14 20:23:39.414370 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-14 20:25:56.388161 | Monitor started | Info
+2025-07-14 20:30:17.744951 | Monitor started | Info
+2025-07-15 14:44:51.698891 | Monitor started | Info
+2025-07-15 14:45:46.282783 | Monitor started | Info
+2025-07-15 14:46:21.592774 | USB inserted | Detected
+2025-07-15 14:46:21.594162 | USB inserted | Detected
+2025-07-15 14:46:22.595269 | Fatal error: [WinError 32] The process cannot access the file because it is being used by another process: 'volumes_output.txt' | Fail
+2025-07-15 14:46:28.287804 | Fatal error: [WinError 2] The system cannot find the file specified: 'diskpart_script.txt' | Fail
+2025-07-15 14:47:13.367697 | Monitor started | Info
+2025-07-15 14:47:18.355939 | USB inserted | Detected
+2025-07-15 14:47:18.364918 | USB inserted | Detected
+2025-07-15 14:47:19.138420 | Fatal error: [WinError 32] The process cannot access the file because it is being used by another process: 'volumes_output.txt' | Fail
+2025-07-15 14:47:20.355105 | Fatal error: [WinError 2] The system cannot find the file specified: 'diskpart_script.txt' | Fail
+2025-07-15 14:47:48.278427 | Monitor started | Info
+2025-07-15 14:47:56.044091 | USB inserted | Detected
+2025-07-15 14:47:56.046793 | USB inserted | Detected
+2025-07-15 14:47:56.791060 | Fatal error: [WinError 32] The process cannot access the file because it is being used by another process: 'volumes_output.txt' | Fail
+2025-07-15 14:47:57.989477 | Fatal error: [WinError 2] The system cannot find the file specified: 'diskpart_script.txt' | Fail
+2025-07-15 14:49:18.152809 | Monitor started | Info
+2025-07-15 14:49:35.267188 | USB inserted | Detected
+2025-07-15 14:49:35.274653 | USB inserted | Detected
+2025-07-15 14:49:36.448604 | Fatal error: [WinError 32] The process cannot access the file because it is being used by another process: 'volumes_output.txt' | Fail
+2025-07-15 14:49:37.282481 | Fatal error: [WinError 2] The system cannot find the file specified: 'diskpart_script.txt' | Fail
+2025-07-15 14:52:05.993279 | Monitor started | Info
+2025-07-15 14:52:13.676900 | USB inserted | Detected
+2025-07-15 14:52:13.686692 | USB inserted | Detected
+2025-07-15 14:52:14.436142 | Fatal error: [Errno 13] Permission denied: 'volumes_output.txt' | Fail
+2025-07-15 14:52:16.100139 | Could not find volume number for G | Fail
+2025-07-15 14:52:34.605281 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-15 14:52:50.898246 | USB inserted | Detected
+2025-07-15 14:52:50.898515 | USB inserted | Detected
+2025-07-15 14:52:51.691422 | Fatal error: [Errno 13] Permission denied: 'volumes_output.txt' | Fail
+2025-07-15 14:52:53.237708 | Could not find volume number for G | Fail
+2025-07-15 14:53:03.904318 | USB access denied (USB disabled) | Intruder
+2025-07-15 14:53:10.706451 | Photo captured | Success
+2025-07-15 14:53:24.343580 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23de4365e47sm109818125ad.248 - gsmtp') | Fail
+2025-07-15 14:56:27.332507 | Monitor started | Info
+2025-07-15 14:57:18.731238 | Monitor started | Info
+2025-07-15 15:00:48.529399 | Monitor started | Info
+2025-07-15 15:00:57.981060 | USB inserted | Detected
+2025-07-15 15:00:57.983928 | USB inserted | Detected
+2025-07-15 15:00:58.696936 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:01:00.327337 | Could not find volume number for G | Fail
+2025-07-15 15:01:18.138043 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-15 15:01:38.017235 | USB inserted | Detected
+2025-07-15 15:01:38.733221 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:01:40.447212 | Could not find volume number for G | Fail
+2025-07-15 15:01:49.332940 | USB access denied (USB disabled) | Intruder
+2025-07-15 15:01:53.479266 | Photo captured | Success
+2025-07-15 15:02:03.831167 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c301ed0c0sm14613075a91.47 - gsmtp') | Fail
+2025-07-15 15:02:42.025198 | Monitor started | Info
+2025-07-15 15:07:52.724351 | Monitor started | Info
+2025-07-15 15:12:44.952690 | Monitor started | Info
+2025-07-15 15:12:54.913556 | USB inserted | Detected
+2025-07-15 15:12:54.915837 | USB inserted | Detected
+2025-07-15 15:12:55.651574 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:12:57.192036 | Could not find volume number for G | Fail
+2025-07-15 15:13:08.251776 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-15 15:13:45.861974 | USB inserted | Detected
+2025-07-15 15:13:46.552250 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:13:58.972389 | Monitor started | Info
+2025-07-15 15:14:01.337416 | USB inserted | Detected
+2025-07-15 15:14:01.339544 | USB inserted | Detected
+2025-07-15 15:14:02.056864 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:14:03.633913 | Could not find volume number for G | Fail
+2025-07-15 15:14:13.878202 | USB access denied (USB disabled) | Intruder
+2025-07-15 15:14:18.098646 | Photo captured | Success
+2025-07-15 15:14:25.145172 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c3eb7e357sm12643588a91.47 - gsmtp') | Fail
+2025-07-15 15:15:16.866711 | Monitor started | Info
+2025-07-15 15:15:24.466284 | USB inserted | Detected
+2025-07-15 15:15:24.473054 | USB inserted | Detected
+2025-07-15 15:15:25.455759 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:15:26.675853 | Could not find volume number for G | Fail
+2025-07-15 15:15:46.201406 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-15 15:16:04.226414 | USB inserted | Detected
+2025-07-15 15:16:04.230228 | USB inserted | Detected
+2025-07-15 15:16:05.363010 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:16:06.497035 | Could not find volume number for G | Fail
+2025-07-15 15:16:27.511075 | USB access denied (USB disabled) | Intruder
+2025-07-15 15:16:31.595716 | Photo captured | Success
+2025-07-15 15:16:49.536445 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74eb9f1b355sm11543306b3a.80 - gsmtp') | Fail
+2025-07-15 15:17:04.783208 | Monitor started | Info
+2025-07-15 15:17:16.396926 | USB inserted | Detected
+2025-07-15 15:17:16.398728 | USB inserted | Detected
+2025-07-15 15:17:17.192367 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:17:18.779276 | Could not find volume number for G | Fail
+2025-07-15 15:17:29.778553 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-15 15:17:43.397669 | USB inserted | Detected
+2025-07-15 15:17:43.408063 | USB inserted | Detected
+2025-07-15 15:17:44.172625 | Fatal error: [WinError 740] The requested operation requires elevation | Fail
+2025-07-15 15:17:45.605891 | Could not find volume number for G | Fail
+2025-07-15 15:17:55.501862 | USB access denied (USB disabled) | Intruder
+2025-07-15 15:17:59.508074 | Photo captured | Success
+2025-07-15 15:18:20.500799 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74eb9f1b708sm12352976b3a.75 - gsmtp') | Fail
+2025-07-17 10:05:10.271954 | Monitor started | Info
+2025-07-17 10:28:40.674166 | Monitor started | Info
+2025-07-17 10:28:49.776302 | USB inserted | Detected
+2025-07-17 10:28:52.719972 | Could not find volume number for G | Fail
+2025-07-17 10:29:12.462425 | USB access denied | Intruder
+2025-07-17 10:29:19.225832 | Photo captured | Success
+2025-07-17 10:29:22.293851 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c9f288071sm2346943a91.29 - gsmtp') | Fail
+2025-07-17 10:31:25.938711 | USB inserted | Detected
+2025-07-17 10:31:28.809037 | Could not find volume number for G | Fail
+2025-07-17 10:31:41.117265 | USB access denied (USB disabled) | Intruder
+2025-07-17 10:31:47.276007 | Photo captured | Success
+2025-07-17 10:31:49.320278 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31caf7aa70esm613580a91.6 - gsmtp') | Fail
+2025-07-17 10:32:09.725688 | USB inserted | Detected
+2025-07-17 10:32:12.157384 | Could not find volume number for G | Fail
+2025-07-17 10:32:45.136712 | USB access denied (USB disabled) | Intruder
+2025-07-17 10:32:49.965838 | Photo captured | Success
+2025-07-17 10:32:52.048493 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c9f1e67c1sm2360676a91.14 - gsmtp') | Fail
+2025-07-18 09:06:54.645021 | Monitor started | Info
+2025-07-18 09:35:35.851281 | Monitor started | Info
+2025-07-18 09:35:40.761654 | USB inserted | Detected
+2025-07-18 09:35:43.383302 | Could not find volume number for G | Fail
+2025-07-18 09:36:13.132755 | USB access denied (USB disabled) | Intruder
+2025-07-18 09:36:17.597240 | Photo captured | Success
+2025-07-18 09:36:20.352024 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6b4d04sm4275625ad.125 - gsmtp') | Fail
+2025-07-18 09:37:06.598131 | Monitor started | Info
+2025-07-18 11:06:34.777846 | Monitor started | Info
+2025-07-18 11:07:22.265388 | USB inserted | Detected
+2025-07-18 11:07:25.006768 | Could not find volume number for G | Fail
+2025-07-18 11:07:35.887334 | USB access denied | Intruder
+2025-07-18 11:07:40.576980 | Photo captured | Success
+2025-07-18 11:07:44.036767 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c89d55eesm479874b3a.55 - gsmtp') | Fail
+2025-07-18 11:09:09.820269 | Monitor started | Info
+2025-07-18 11:09:15.817919 | USB inserted | Detected
+2025-07-18 11:09:17.741177 | Could not find volume number for G | Fail
+2025-07-18 11:10:00.237043 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-18 11:10:38.785283 | USB inserted | Detected
+2025-07-18 11:10:40.775395 | Could not find volume number for G | Fail
+2025-07-18 11:10:52.146368 | USB access denied (USB disabled) | Intruder
+2025-07-18 18:27:09.651608 | Monitor started | Info
+2025-07-18 18:27:32.241590 | USB inserted | Detected
+2025-07-18 18:27:34.938621 | Could not find volume number for G | Fail
+2025-07-18 18:28:03.330673 | USB access disabled by user | Info
+2025-07-18 18:32:19.632829 | Monitor started | Info
+2025-07-18 18:32:27.165013 | USB inserted | Detected
+2025-07-18 18:32:29.829856 | Could not find volume number for G | Fail
+2025-07-18 18:33:31.929955 | Fatal error: NextEvent.VolumeName | Fail
+2025-07-18 18:33:46.037590 | USB inserted | Detected
+2025-07-18 18:33:48.322276 | Could not find volume number for G | Fail
+2025-07-18 18:34:02.427704 | USB access disabled by user | Info
+2025-07-18 18:37:29.628632 | Monitor started | Info
+2025-07-18 18:37:32.666942 | USB inserted | Detected
+2025-07-18 18:37:34.693232 | Could not find volume number for G | Fail
+2025-07-18 18:38:23.131855 | Monitor started | Info
+2025-07-18 18:38:26.439907 | USB inserted | Detected
+2025-07-18 18:38:28.490538 | Could not find volume number for G | Fail
+2025-07-18 18:39:05.671353 | USB inserted | Detected
+2025-07-18 18:39:07.497668 | Could not find volume number for G | Fail
+2025-07-18 18:40:47.438939 | Monitor started | Info
+2025-07-18 18:44:31.968683 | Monitor started | Info
+2025-07-18 18:55:22.459334 | Monitor started | Info
+2025-07-18 18:55:49.210057 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:05:03.386224 | Monitor started | Info
+2025-07-18 19:05:09.054163 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:06:39.871804 | Monitor started | Info
+2025-07-18 19:06:46.805021 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:08:31.956309 | Monitor started | Info
+2025-07-18 19:08:38.903191 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:09:16.960216 | USB access disabled by user | Info
+2025-07-18 19:11:27.515218 | Monitor started | Info
+2025-07-18 19:12:25.969630 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:12:49.427671 | USB access disabled by user | Info
+2025-07-18 19:19:11.818950 | Monitor started | Info
+2025-07-18 19:21:00.959040 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-18 19:21:16.579716 | USB access disabled by user | Info
+2025-07-18 19:29:22.627910 | Monitor started | Info
+2025-07-19 14:14:41.275536 | Monitor started | Info
+2025-07-19 14:20:56.061859 | Monitor started | Info
+2025-07-19 14:22:45.410468 | Monitor started | Info
+2025-07-19 14:22:52.210466 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 14:23:53.964476 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 14:24:03.053211 | USB access disabled by user | Info
+2025-07-19 14:24:45.702676 | Monitor started | Info
+2025-07-19 14:24:51.360739 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 14:24:59.524396 | USB access denied | Intruder
+2025-07-19 14:25:04.892153 | Photo captured | Success
+2025-07-19 14:25:09.654952 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759cb76e107sm2451372b3a.111 - gsmtp') | Fail
+2025-07-19 19:24:53.368702 | Monitor started | Info
+2025-07-19 19:24:57.798964 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:25:20.054474 | USB access denied | Intruder
+2025-07-19 19:25:26.255804 | Photo captured | Success
+2025-07-19 19:25:30.555760 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b60edc5sm29453095ad.74 - gsmtp') | Fail
+2025-07-19 19:30:42.113691 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b612232sm29694145ad.66 - gsmtp') | Fail
+2025-07-19 19:33:59.882775 | Monitor started | Info
+2025-07-19 19:34:04.307113 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:34:10.148768 | USB access denied | Intruder
+2025-07-19 19:34:14.973368 | Photo captured | Success
+2025-07-19 19:34:21.038835 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31cc3f2e1fesm3094764a91.31 - gsmtp') | Fail
+2025-07-19 19:35:59.850064 | Plain test email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6d9504sm29607395ad.179 - gsmtp') | Fail
+2025-07-19 19:48:52.483310 | Monitor started | Info
+2025-07-19 19:49:04.228844 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:49:13.024857 | USB access denied | Intruder
+2025-07-19 19:49:18.235028 | Photo captured | Success
+2025-07-19 19:49:24.811942 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31cc3f2c043sm3078810a91.29 - gsmtp') | Fail
+2025-07-19 19:56:29.108769 | Monitor started | Info
+2025-07-19 19:56:33.211643 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:56:34.291400 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:56:41.150406 | USB access denied | Intruder
+2025-07-19 19:56:44.960033 | Photo captured | Success
+2025-07-19 19:56:48.392100 | Email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31cb5c5da0csm4686928a91.25 - gsmtp') | Fail
+2025-07-19 19:58:03.225091 | Plain test email failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6f19d0sm29731075ad.207 - gsmtp') | Fail
+2025-07-19 19:58:09.555243 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:59:11.707144 | Plain test email sent | Success
+2025-07-19 19:59:27.543312 | Monitor started | Info
+2025-07-19 19:59:33.416084 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:59:34.205340 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 19:59:41.158215 | USB access denied | Intruder
+2025-07-19 19:59:46.440686 | Photo captured | Success
+2025-07-19 19:59:51.266853 | Email sent | Success
+2025-07-19 20:03:13.733085 | Monitor started | Info
+2025-07-19 20:03:16.513420 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 20:03:22.414196 | USB access denied | Intruder
+2025-07-19 20:03:27.252923 | Photo captured | Success
+2025-07-19 20:03:32.869313 | Email sent | Success
+2025-07-19 20:03:42.357214 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 20:03:54.302702 | USB access denied | Intruder
+2025-07-19 20:03:58.202106 | Photo captured | Success
+2025-07-19 20:07:49.190262 | Monitor started | Info
+2025-07-19 20:07:51.915078 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 20:07:59.985837 | USB access denied | Intruder
+2025-07-19 20:08:04.856190 | Photo captured | Success
+2025-07-19 20:08:09.837569 | Email sent | Success
+2025-07-19 20:35:32.679212 | Monitor started | Info
+2025-07-19 20:35:38.122626 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 20:35:47.471143 | USB access denied | Intruder
+2025-07-19 20:35:51.960449 | Photo captured | Success
+2025-07-19 20:35:58.138851 | Email sent | Success
+2025-07-19 20:36:40.579297 | Monitor started | Info
+2025-07-19 20:36:44.695988 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 20:36:51.363684 | USB access denied | Intruder
+2025-07-19 20:36:54.724310 | Photo captured | Success
+2025-07-19 20:37:00.646922 | Email sent | Success
+2025-07-19 22:08:29.360858 | Monitor started | Info
+2025-07-19 22:08:33.417300 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 22:08:46.560253 | USB access denied | Intruder
+2025-07-19 22:08:51.225361 | Photo captured | Success
+2025-07-19 22:08:57.037012 | Email sent | Success
+2025-07-19 22:09:11.924206 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 22:09:41.303029 | USB access denied | Intruder
+2025-07-19 22:09:44.302194 | Photo captured | Success
+2025-07-19 22:09:48.892401 | Email sent | Success
+2025-07-19 22:10:47.195799 | Monitor started | Info
+2025-07-19 22:10:52.648645 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-19 22:10:58.800733 | USB access denied | Intruder
+2025-07-19 22:11:02.315328 | Photo captured | Success
+2025-07-19 22:11:09.434178 | Email sent | Success
+2025-07-20 08:12:34.661354 | Monitor started | Info
+2025-07-20 08:12:38.657210 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:13:38.991678 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:17:12.600133 | USB access denied | Intruder
+2025-07-20 08:17:23.860566 | Photo captured | Success
+2025-07-20 08:17:29.865351 | Email sent | Success
+2025-07-20 08:20:58.029576 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:21:25.215901 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:25:39.575294 | Monitor started | Info
+2025-07-20 08:25:42.659988 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:26:04.533382 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:27:12.201565 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 08:29:32.054693 | Monitor started | Info
+2025-07-20 08:29:39.002477 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 10:29:26.928781 | Monitor started | Info
+2025-07-20 10:29:51.525205 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 10:29:59.813489 | USB access denied | Intruder
+2025-07-20 10:31:16.888327 | Monitor started | Info
+2025-07-20 10:31:51.748667 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 10:45:59.384185 | Enable attempt failed - wrong password | Intruder
+2025-07-20 10:46:05.482701 | Photo captured | Success
+2025-07-20 10:46:10.638924 | Email sent | Success
+2025-07-20 10:47:06.133083 | USB enabled after auth | Success
+2025-07-20 10:47:06.207865 | Fatal error: name 'monitor_usb' is not defined | Fail
+2025-07-20 10:48:50.907707 | USB enabled after auth | Success
+2025-07-20 10:48:50.944650 | Monitor started | Info
+2025-07-20 10:50:25.874905 | USB enabled after auth | Success
+2025-07-20 10:50:25.903589 | Monitor started | Info
+2025-07-20 10:50:36.851456 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 10:54:38.940732 | USB disabled after auth | Success
+2025-07-20 10:54:38.971073 | Monitor started | Info
+2025-07-20 11:10:59.591474 | USB enabled after auth | Success
+2025-07-20 11:10:59.619065 | Monitor started | Info
+2025-07-20 11:14:19.031942 | USB enabled after auth | Success
+2025-07-20 11:14:19.053576 | Monitor started | Info
+2025-07-20 11:52:52.781059 | Monitor started | Info
+2025-07-20 11:53:45.413244 | USB enabled after auth | Success
+2025-07-20 11:53:45.437135 | Monitor started | Info
+2025-07-20 12:01:34.826320 | USB enabled after auth | Success
+2025-07-20 12:01:34.842133 | Monitor started | Info
+2025-07-20 12:01:58.169065 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 12:02:06.712598 | USB access denied | Intruder
+2025-07-20 12:02:15.093944 | Photo captured | Success
+2025-07-20 12:02:20.416525 | Email sent | Success
+2025-07-20 12:03:12.704207 | USB enabled after auth | Success
+2025-07-20 12:03:12.727127 | Monitor started | Info
+2025-07-20 12:03:20.467367 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 12:03:20.486487 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 12:03:28.275009 | USB access disabled by user | Info
+2025-07-20 12:07:39.930335 | USB enabled after auth | Success
+2025-07-20 12:07:39.953423 | Monitor started | Info
+2025-07-20 12:07:53.375380 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 12:07:53.786114 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
+2025-07-20 12:07:53.853290 | USB device detected: USBSTOR\DISK&VEN_SANDISK&PROD_CRUZER_BLADE&REV_1.00\03003006101924124202&0 | Detected
